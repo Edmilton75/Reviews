@@ -6,5 +6,9 @@ https://github.com/john-smilga/javascript-basic-projects
 
 </p>
 
-![Badge](https://img.shields.io/static/v1?label=javaScript&message=project&color=yellow&style=for-the-badge&logo=JS)
+![Badge](https://img.shields.io/static/v1?label=&message=HTML&color=e9622b&style=flat)
+![Badge](https://img.shields.io/static/v1?label=&message=CSS&color=2862e9&style=flat)
+![Badge](https://img.shields.io/static/v1?label=&message=Javascript&color=f3e045&style=flat)
+
+
 
